@@ -1,0 +1,7 @@
+numpy
+tensorflow
+matplotlib==3.0.3
+tqdm
+pandas
+seaborn
+jinja2
